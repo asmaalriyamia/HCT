@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Student_name">
+        <item>Asma</item>
+        <item>Muhra</item>
+        <item>Ibtisam</item>
+        <item>Maya</item>
+        <item>Ahed</item>
+        <item>Bulqees</item>
+        <item>Basma</item>
+    </string-array>
+    <string-array name="Random_image">
+        <item>@drawable/pic</item>
+        <item>@drawable/pic</item>
+        <item>@drawable/pic</item>
+        <item>@drawable/pic</item>
+        <item>@drawable/pic</item>
+        <item>@drawable/pic</item>
+        <item>@drawable/pic</item>
+    </string-array>
+</resources>
